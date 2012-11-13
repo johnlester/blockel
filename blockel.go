@@ -1,8 +1,24 @@
 package blockel
 
-
 //Top-level API
-//BestSplit(Block, []Splits)
+//BestSplit(Block, []Splits, Criteria)
+
+
+import (
+	"image"
+	"image/color"
+	"image/jpeg"
+	// "fmt"
+	// "runtime"
+	//	"log"
+)
+
+var (
+	// numCores = runtime.NumCPU()
+)
+
+const (
+)
 
 
 
