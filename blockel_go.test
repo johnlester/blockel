@@ -1,0 +1,22 @@
+package blockel
+
+import (
+	"testing"
+	"os"
+)
+
+const (
+)
+
+var (
+)
+
+
+/////////////////////////////////////////////////////////////
+// Blockel tests
+/////////////////////////////////////////////////////////////
+
+func TestBlockel_BlockSet(t *testing.T) {
+	bs := NewBlockSet("./testdata/test1.jpg")
+
+}
